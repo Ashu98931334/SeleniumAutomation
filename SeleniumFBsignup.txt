@@ -3,3 +3,4 @@ AUTOMATE THIS
 enter first name/last name
 enter id
 enter pswd
+dob
